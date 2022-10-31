@@ -7,15 +7,11 @@
 
 1. **Team Members**:
 
-|No.|Student ID|Fullname|
-
-|---|----|---------|
-
-|1 |20127370 |Mai Quý Trung|
-
-|2 |20127005 |Nguyễn Đức Bảo|
-
-|3 |20127001 |Hà Quốc Anh|
+| **No.** | **Student ID** | **Fullname**   |
+| ------- | -------------- | -------------- |
+| 1       | 20127370       | Mai Quý Trung  |
+| 2       | 20127005       | Nguyễn Đức Bảo |
+| 3       | 20127001       | Hà Quốc Anh    |
 
 2. **Project Details**:
 
