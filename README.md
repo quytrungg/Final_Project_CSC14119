@@ -16,8 +16,13 @@
 2. **Project Details**:
 
 - **Topic: Music**.
-- **Platform**: [Spotify](https://open.spotify.com/) or [Zing MP3](https://mp3.zing.vn/).
-- **Method**: API request and HTML parsing.
+- **Platform**: [Spotify](https://open.spotify.com/).
+- **Method**: API requests.
 - **Language**: Python.
-- **Tools**: Jupyter Notebook, Numpy, Pandas, requests, Matplotlib, Scikit-learn,...
-- Crawl data from music platforms using API requests and store data about music tracks and albums.
+- **Tools**: Jupyter Notebook, Numpy, Pandas, Spotipy, Matplotlib, Scikit-learn,...
+- **Target**:
+  - Predict key elements that make a good song and a good artist based on features of the dataset using Linear Regression.
+  - Predictions about music chart in 2022: favorite genres, favorite artists, favorite songs, song/album/artist of the year, potential artists for the following year, most popular music markets,...
+  - Predictions about music trend for the next 5 years.
+  - Crawl data from music platforms using API requests and store data about music tracks and artists.
+  - The dataset includes differents stats of music tracks and artist: track id, track name, genre, track duration, artist name, number of followers, artist popularity, track popularity, song release date, available markets,...
