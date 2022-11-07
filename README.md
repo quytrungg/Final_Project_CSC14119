@@ -21,7 +21,7 @@
 - **Language**: Python.
 - **Tools**: Jupyter Notebook, Numpy, Pandas, Spotipy, Matplotlib, Scikit-learn,...
 - **Target**:
-  - Predict key elements that make a good song and a good artist based on features of the dataset using Linear Regression.
+  - Predict key elements that make a good song and predict a song popularity based on features of the dataset using Linear Regression.
   - Predictions about music chart in 2022: favorite genres, favorite artists, favorite songs, song/album/artist of the year, potential artists for the following year, most popular music markets,...
   - Predictions about music trend for the next 5 years.
   - Crawl data from music platforms using API requests and store data about music tracks and artists.
