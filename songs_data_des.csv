@@ -1,10 +1,10 @@
 column name, data type, meaning, example
 id, string, The Spotify ID of track, 3nqQXoyQOWXiESFLlDF1hG
 name, string, The name of the track, Unholy (feat. Kim Petras)
-artist, string, The artist(s) of the track, "Sam Smith,Kim Petras"
-genres, string, The genres of that artist(s), "uk pop,transpop,pop,dance pop"
-artist_followers, string, The number of followers of the artist(s), "20747240,825245"
-artist_popularity, string, "The popularity of the artist(s). The value will be between 0 and 100, with 100 being the most popular. The artist’s popularity is calculated from the popularity of all the artist’s tracks", "87,82"
+artist, string, The artist(s) of the track, "Sam Smith-Kim Petras"
+genres, string, The genres of that artist(s), "uk pop-transpop-pop-dance pop"
+artist_followers, string, The number of followers of the artist(s), "20747240-825245"
+artist_popularity, string, "The popularity of the artist(s). The value will be between 0 and 100 with 100 being the most popular. The artist’s popularity is calculated from the popularity of all the artist’s tracks", "87-82"
 markets, int, The number of markets (countries) which the track is available, 182
 album, string, The album of the track, Unholy (feat. Kim Petras)
 released_date, date, The released date of the track, 2022-09-22
