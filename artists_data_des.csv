@@ -1,0 +1,6 @@
+column name	data type	meaning	example
+id	string	Id of artist	7EnWkKTmRG5i9rW93o5DZm
+name	string	Name of artist	Axxad
+genres	string	Artist genres	viral rap
+followers	int	Artist number of followers	6049
+popularity	int	Artist popularity	47
