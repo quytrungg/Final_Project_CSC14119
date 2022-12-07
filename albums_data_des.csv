@@ -3,5 +3,5 @@ id, string, The Spotify ID of the album, 7lPoGKpCGgdKFAxpudhAH5
 name, string, The name of the album, Speak Your Mind (Deluxe)
 popularity, int, "The popularity of the album. The value will be between 0 and 100 with 100 being the most popular", 72
 available_markets, int, The number of markets (countries) which the album is available, 183
-release_date, string, The day when the album was released, "2018-04-27"
+release_date, datetime, The day when the album was released, "2018-04-27"
 total_tracks, int, The number of tracks which the album contain, 18
