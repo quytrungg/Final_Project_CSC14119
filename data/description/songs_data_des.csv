@@ -10,5 +10,5 @@ album, string, The album of the track, Unholy (feat. Kim Petras)
 released_date, string, The released date of the track, 2022-09-22
 album_popularity, int, The popularity of the album., 88
 duration, int, The duration of the track, 156943
-explicit, bool, Check wheter the lyrics of the track is explicit, False
+explicit, bool, Check whether the lyrics of the track is explicit, False
 popularity, int, The popularity of the track, 100
