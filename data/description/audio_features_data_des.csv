@@ -1,0 +1,16 @@
+column name	data type	meaning	example
+id	string	id of the track	2dLLR6qlu5UJ5gk0dKz0h3
+danceability	float	Describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity	0.674
+energy	float	Represents a perceptual measure of intensity and activity	0.428
+key	int	The key the track is in	7
+loudness	float	The overall loudness of a track in decibels	-9.504
+mode	int	Indicates the modality (major or minor) of a track, the type of scale from which its melodic content is derived	1
+speechiness	float	Detects the presence of spoken words in a track	0.122
+acousticness	float	A confidence measure of whether the track is acoustic	0.121
+instrumentalness	float	Predicts whether a track contains no vocals	0.0
+liveness	float	Detects the presence of an audience in the recording	0.132
+valence	float	A measure describing the musical positiveness conveyed by a track	0.337
+tempo	float	The overall estimated tempo of a track in beats per minute (BPM)	84.878
+duration_ms	int	The duration of the track in milliseconds	190185
+time_signature	int	A notational convention to specify how many beats are in each bar (or measure)	4
+genre	string	genre of the track	art pop
